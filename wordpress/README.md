@@ -1,6 +1,1 @@
 # WordPress Docker Setup
-  
-  
-  
-
-
